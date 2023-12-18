@@ -1,6 +1,6 @@
 # 15 Puzzle
 
-Siple puzzle game, learning project in Rust.
+Simple puzzle game, learning project in Rust.
 
 ![screenshot](screenshot.png)
 
